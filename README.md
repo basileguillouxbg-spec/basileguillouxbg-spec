@@ -8,5 +8,4 @@ Student in the Data, Society & Organisations track of the HEC Paris x Bocconi do
 - Completed an ML R&D internship at DentalMonitoring (computer vision), summer 2026
 
 **Featured project**
-- [WORLDCUP-2026](https://github.com/basileguillouxbg-spec/WORLDCUP-2026): a match-outcome prediction pipeline for the 2026 World Cup, combining Elo ratings, a Dixon-Coles baseline, feature engineering, and Monte Carlo tournament simulation.
-
+- [WORLDCUP-2026](https://github.com/basileguillouxbg-spec/WORLDCUP-2026): a match-outcome prediction pipeline for the 2026 World Cup, combining Elo ratings, a Dixon-Coles baseline, feature engineering, FIFA-ranking blending, and a fixture-by-fixture power ranking.
